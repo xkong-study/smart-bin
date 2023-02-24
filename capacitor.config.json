@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "smartBin",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

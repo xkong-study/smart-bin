@@ -1,0 +1,8 @@
+{
+  "name": "smartBin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2de1d337"
+}
